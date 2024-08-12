@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const { getStoredItems, storeItems } = require("./data/data");
 
 const app = express();
-const PORT = 8880;
+const PORT = "https://e-commerce-test-1-backend.onrender.com/";
 
 app.use(bodyParser.json());
 
