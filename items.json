@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Nikon D53",
+      "img": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 67999,
+      "mrp": 90000
+    },
+    {
+      "id": 2,
+      "title": "Sony Headphone",
+      "img": "https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 23999,
+      "mrp": 40000
+    },
+    {
+      "id": 3,
+      "title": "Xbox Controller",
+      "img": "https://images.pexels.com/photos/1298601/pexels-photo-1298601.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 999,
+      "mrp": 3000
+    },
+    {
+      "id": 4,
+      "title": "HD Voice Mic",
+      "img": "https://images.pexels.com/photos/352505/pexels-photo-352505.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 3999,
+      "mrp": 8000
+    },
+    {
+      "id": 5,
+      "title": "PS4 controller",
+      "img": "https://images.pexels.com/photos/459762/pexels-photo-459762.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 4999,
+      "mrp": 8000
+    },
+    {
+      "id": 6,
+      "title": "Crown Radio",
+      "img": "https://images.pexels.com/photos/159613/ghettoblaster-radio-recorder-boombox-old-school-159613.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 8999,
+      "mrp": 12000
+    },
+    {
+      "id": 7,
+      "title": "Seagate 1TB Hdd",
+      "img": "https://images.pexels.com/photos/117729/pexels-photo-117729.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 4999,
+      "mrp": 9000
+    },
+    {
+      "id": 8,
+      "title": "Iphone 15 pro",
+      "img": "https://images.pexels.com/photos/6751554/pexels-photo-6751554.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 169999,
+      "mrp": 210000
+    },
+    {
+      "id": 9,
+      "title": "Face Care",
+      "img": "https://plus.unsplash.com/premium_photo-1675431443027-ad1f46c93c8d?q=80&w=1432&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 6999,
+      "mrp": 11000
+    },
+    {
+      "id": 10,
+      "title": "Hair Growth Serum",
+      "img": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D",
+      "price": 8999,
+      "mrp": 15000
+    },
+    {
+      "id": 11,
+      "title": "Skin Care Routine",
+      "img": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2R1Y3RzfGVufDB8fDB8fHww",
+      "price": 16999,
+      "mrp": 21000
+    },
+    {
+      "id": 12,
+      "title": "Touch Up Brushes",
+      "img": "https://images.unsplash.com/photo-1500840216050-6ffa99d75160?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 11999,
+      "mrp": 17500
+    },
+    {
+      "id": 13,
+      "title": "Rubiks Cube",
+      "img": "https://images.unsplash.com/photo-1540835296355-c04f7a063cbb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJ1YmlrcyUyMGN1YmV8ZW58MHx8MHx8fDA%3D",
+      "price": 5999,
+      "mrp": 10000
+    },
+    {
+      "id": 14,
+      "title": "Macbook 13 pro",
+      "img": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 59999,
+      "mrp": 90000
+    },
+    {
+      "id": 15,
+      "title": "Bagpack",
+      "img": "https://images.unsplash.com/photo-1621609764049-5ee1db3d7c35?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGJhZ3BhY2t8ZW58MHx8MHx8fDA%3D",
+      "price": 11999,
+      "mrp": 21000
+    },
+    {
+      "id": 16,
+      "title": "OnePlus 9 pro",
+      "img": "https://images.unsplash.com/photo-1673718423582-f3378102c0d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFuZHJvaWQlMjBwaG9uZXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 39999,
+      "mrp": 50000
+    },
+    {
+      "id": 17,
+      "title": "Nothing Phone 2",
+      "img": "https://images.unsplash.com/photo-1694781664416-d89a0293124a?q=80&w=1376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 29999,
+      "mrp": 38000
+    },
+    {
+      "id": 18,
+      "title": "Samsung Fold 2",
+      "img": "https://rukminim2.flixcart.com/image/416/416/kjrh2fk0/mobile/y/3/t/samsung-galaxy-fold-2-sm-f916bzkainu-original-imafz9hgzpfwjr77.jpeg?q=70&crop=false",
+      "price": 189999,
+      "mrp": 220000
+    },
+    {
+      "id": 19,
+      "title": "American Tourister - Traveller",
+      "img": "https://plus.unsplash.com/premium_photo-1684407616508-b9e82c8bc8a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGx1Z2dhZ2V8ZW58MHx8MHx8fDA%3D",
+      "price": 6999,
+      "mrp": 10000
+    },
+    {
+      "id": 20,
+      "title": "Safari Combo",
+      "img": "https://images.unsplash.com/photo-1639598003276-8a70fcaaad6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGx1Z2dhZ2V8ZW58MHx8MHx8fDA%3D",
+      "price": 14500,
+      "mrp": 21000
+    }
+  ]
+}
