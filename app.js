@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const { getStoredItems, storeItems } = require("./data/data");
 
 const app = express();
-const PORT = "https://e-commerce-test-1-backend.onrender.com/";
+const PORT = process.env.PORT || 8880;
 
 app.use(bodyParser.json());
 
@@ -26,17 +26,17 @@ app.get("/items/:id", async (req, res) => {
   res.json({ item });
 });
 
-app.post("/items", async (req, res) => {
-  const existingItems = await getStoredItems();
-  const itemData = req.body;
-  const newItem = {
-    ...itemData,
-    id: Math.random().toString(),
-  };
-  const updatedItems = [newItem, ...existingItems];
-  await storeItems(updatedItems);
-  res.status(201).json({ message: "Stored new item.", item: newItem });
-});
+// app.post("/items", async (req, res) => {
+//   const existingItems = await getStoredItems();
+//   const itemData = req.body;
+//   const newItem = {
+//     ...itemData,
+//     id: Math.random().toString(),
+//   };
+//   const updatedItems = [newItem, ...existingItems];
+//   await storeItems(updatedItems);
+//   res.status(201).json({ message: "Stored new item.", item: newItem });
+// });
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
